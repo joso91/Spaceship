@@ -1,0 +1,28 @@
+spaceship/model/Spaceship.java
+ spaceship.model.Spaceship
+spaceship/model/Game.java
+ spaceship.model.Game
+spaceship/model/SpaceshipProtocol.java
+ spaceship.model.SpaceshipProtocol
+spaceship/model/BattleTracker.java
+ spaceship.model.BattleTracker
+spaceship/request/NewGameRequest.java
+ spaceship.request.NewGameRequest
+spaceship/response/SalvoShotResponse.java
+ spaceship.response.SalvoShotResponse
+spaceship/model/GameSummarized.java
+ spaceship.model.GameSummarized
+spaceship/Application.java
+ spaceship.Application
+spaceship/request/SalvoShotRequest.java
+ spaceship.request.SalvoShotRequest
+spaceship/service/AttackService.java
+ spaceship.service.AttackService
+spaceship/response/NewGameResponse.java
+ spaceship.response.NewGameResponse
+spaceship/controller/Controller.java
+ spaceship.controller.Controller
+spaceship/response/GameStatusResponse.java
+ spaceship.response.GameStatusResponse
+spaceship/ApplicationUI.java
+ spaceship.ApplicationUI
